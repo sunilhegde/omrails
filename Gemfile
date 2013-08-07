@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '1.9.3'
 
 #sunil
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -15,7 +16,7 @@ group :development, :test do
  gem 'sqlite3'
 end
 
-ruby '1.9.3'
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc2'
