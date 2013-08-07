@@ -15,7 +15,7 @@ group :development, :test do
  gem 'sqlite3'
 end
 
-# sunil ruby '2.0.0'
+ruby '1.9.3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc2'
